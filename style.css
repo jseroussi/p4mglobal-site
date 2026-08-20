@@ -80,7 +80,7 @@ nav {
 
 /* ── Hero ── */
 .hero {
-  background: linear-gradient(135deg, rgba(10,22,40,0.65) 0%, rgba(10,22,40,0.55) 100%), url('images/hero-bg.jpg') center 65%/cover no-repeat;
+  background: linear-gradient(135deg, rgba(10,22,40,0.50) 0%, rgba(10,22,40,0.40) 100%), url('images/hero-bg.jpg') center 65%/cover no-repeat;
   color: var(--white);
   padding: 5rem 2rem;
   text-align: center;
